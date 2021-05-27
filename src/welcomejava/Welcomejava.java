@@ -18,7 +18,7 @@ public class Welcomejava {
      */
     public static void main(String[] args) {
     
-       String[]Students ={"Brock", "Tracy", "Ash", "Kiawe", "Gary"};
+       String[]Students ={"Brock", "Tracy", "Ash", "Kiawe", "Gary", "Misty", "Diantha"};
        System.out.println(Students[4]);
         
     }

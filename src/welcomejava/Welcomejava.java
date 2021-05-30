@@ -18,10 +18,10 @@ public class Welcomejava {
      */
     public static void main(String[] args) {
     
-       String[]Trainers ={"Brock", "Tracy", "Ash", "Kiawe", "Gary", "Misty", "Diantha"};
-        String[1]Pokemons ={"Onix", "Azumarill", "Pikachu", "Tortonator", "Starmie", "Gardevoir"};
+       String[]Trainers ={"Brock", "Tracy", "Ash", "Kiawe", "Gary", "Misty", "Diantha", "Red", "Steven", "Alder", "Lance", "Leon"};
+     
        System.out.println(Trainers[4]);
-        System.out.println(Pokemons[2];
+       
         
     }
     }

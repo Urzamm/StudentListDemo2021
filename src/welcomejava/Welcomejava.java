@@ -19,7 +19,7 @@ public class Welcomejava {
     public static void main(String[] args) {
     
        String[]Students ={"Brock", "Tracy", "Ash", "Kiawe", "Gary", "Misty", "Diantha"};
-        String[]Students={"Onix", "Azumarill", "Pikachu", "Tortonator", "Starmie", "Gardevoir"};
+        String[1]Students={"Onix", "Azumarill", "Pikachu", "Tortonator", "Starmie", "Gardevoir"};
        System.out.println(Students[4]);
         
     }

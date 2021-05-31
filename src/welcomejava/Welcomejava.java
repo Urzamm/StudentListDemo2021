@@ -18,9 +18,9 @@ public class Welcomejava {
      */
     public static void main(String[] args) {
     
-       String[]Trainers ={"Brock", "Tracy", "Ash", "Kiawe", "Gary", "Misty", "Diantha", "Red", "Steven", "Alder", "Lance", "Leon"};
+       String[]Java ={"OOB", "Arrays", "Loops", "Constructors", "Methods", "Class"};
      
-       System.out.println(Trainers[4]);
+       System.out.println(Java[4]);
        
         
     }
